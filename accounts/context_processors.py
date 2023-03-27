@@ -1,4 +1,6 @@
 from vendor.models import Vendor
+from django.conf import settings
+from accounts.models import UserProfile
 
 
 
